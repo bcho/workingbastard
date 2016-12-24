@@ -1,0 +1,21 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/joho/godotenv",
+			"repository": "https://github.com/joho/godotenv",
+			"vcs": "git",
+			"revision": "726cc8b906e3d31c70a9671c90a13716a8d3f50d",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/wizjin/weixin",
+			"repository": "https://github.com/wizjin/weixin",
+			"vcs": "git",
+			"revision": "4b4b135fa638a4e7ea9b137fca8035474d8f19d4",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
